@@ -1,0 +1,7 @@
+{
+	"name": "python3 dev container",
+	"dockerFile": "Dockerfile",
+	"extensions": [
+		"ms-python.python"
+	]
+}

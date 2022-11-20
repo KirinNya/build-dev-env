@@ -1,0 +1,5 @@
+site_name: KirinNya Lab Developer Guide
+theme:
+  name: material
+  palette:
+    primary: purple
